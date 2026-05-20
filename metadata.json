@@ -1,0 +1,6 @@
+{
+  "name": "Mashhur Olimlar Ensiklopediyasi",
+  "description": "Buyuk va mashhur olimlarning hayoti, ilmiy kashfiyotlari, xronologiyasi va ularning jahon ilm-fani taraqqiyotiga qo'shgan hissasi haqida interaktiv ensiklopediya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
